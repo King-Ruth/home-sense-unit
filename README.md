@@ -1,5 +1,6 @@
 # home-sense-unit
 Code for a smart home unit
+
 Components:
 - Waveshare BME 688 temperature/humidity/altitude sensor
 - Plantower PMS 5003 PM2.5 gas particle sensor
